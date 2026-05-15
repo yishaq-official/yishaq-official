@@ -39,8 +39,8 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
 &nbsp;
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/>
 
-[![View Repo](https://img.shields.io/badge/View_Repository-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yishaq-sys)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00ff99?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/yishaq-sys)
+[![View Repo](https://img.shields.io/badge/View_Repository-00d2ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/yishaq-official)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00ff99?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/yishaq-official)
 
 </div>
 
@@ -157,9 +157,9 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yishaq-sys/yishaq-official/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yishaq-sys/yishaq-official/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake Animation" src="https://raw.githubusercontent.com/yishaq-sys/yishaq-sys/output/github-contribution-grid-snake.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yishaq-official/yishaq-official/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yishaq-official/yishaq-official/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/yishaq-official/yishaq-official/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 

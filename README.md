@@ -126,7 +126,7 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
 |:---------:|:-------:|:--------:|
 | <img src="https://skillicons.dev/icons?i=java,py,cpp,js,cs" /> | <img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet,express" /> | <img src="https://skillicons.dev/icons?i=react,html,css" /> |
 
-| Database | AI / ML | Tools & OS |
+| Databases | AI / ML | Tools & OS |
 |:---------:|:-------:|:----------:|
 | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" /> | <img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch" /> | <img src="https://skillicons.dev/icons?i=git,linux,docker,postman" /> |
 

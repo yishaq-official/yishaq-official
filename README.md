@@ -90,7 +90,7 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
       &nbsp;
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="20"/>
       <br/><br/>
-      <a href="https://github.com/yishaq-officcial">
+      <a href="https://github.com/yishaq-official">
         <img src="https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white"/>
       </a>
     </td>

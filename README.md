@@ -163,7 +163,6 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
   </picture>
 </div>
 
-> ⚙️ **Note:** To activate the snake, add a GitHub Actions workflow to your profile repo. [See setup guide →](https://github.com/Platane/snk)
 
 ---
 

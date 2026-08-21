@@ -177,7 +177,7 @@ I'm a **Full Stack Developer** based in **Addis Ababa, Ethiopia**, passionate ab
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://t.me/yessu" target="_blank">
+  <a href="https://t.me/yi_s_ha_q" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
